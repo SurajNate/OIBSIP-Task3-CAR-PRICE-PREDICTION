@@ -17,11 +17,11 @@ st.write("""
 st.write("<hr>", unsafe_allow_html=True)
 
 # Load the dataset locally
-file_path = "Task 3 - Jupyter Files\\car data.csv" 
+file_path = "car data.csv" 
 car_data = pd.read_csv(file_path)
 
 # Load the pre-trained model
-model = joblib.load("Task 3 - Jupyter Files\\car_price_prediction_surajnate_model.pkl")
+model = joblib.load("car_price_prediction_surajnate_model.pkl")
 
 # Predict Car Price for Unseen Data
 st.header("Predict the Price of a Car")
