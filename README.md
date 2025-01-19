@@ -1,2 +1,2 @@
 # OIBSIP-Task3-CAR-PRICE-PREDICTION
-Intern Tasks OASIS INFOBYTES
+Task 3 - Car Price Prediction with Machine Learning 
